@@ -1,5 +1,5 @@
 /**
- * @CopyRight DeckITPL
+ * @CopyRight Jay
  */
 package com.sysintelli.ims.repository;
 
@@ -8,7 +8,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
  *
- * @author deck
+ * @author Jay
  */
 @org.springframework.stereotype.Repository
 public interface Repository extends JpaRepository<FbOperationMstr, Long> {

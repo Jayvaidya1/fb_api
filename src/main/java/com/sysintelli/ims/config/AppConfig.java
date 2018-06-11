@@ -1,5 +1,5 @@
 /**
- * @CopyRight DeckITPL
+ * @CopyRight Jay
  */
 package com.sysintelli.ims.config;
 
@@ -15,7 +15,7 @@ import org.springframework.mail.javamail.JavaMailSender;
 import org.springframework.mail.javamail.JavaMailSenderImpl;
 
 /**
- * @author chandrakant varasadia
+ * @author Jay
  */
 @Configuration
 @EnableWebMvc
@@ -35,7 +35,7 @@ public class AppConfig extends WebMvcConfigurerAdapter {
         //Using gmail
         mailSender.setHost("smtp.gmail.com");
         mailSender.setPort(587);
-        mailSender.setUsername("noreply@deckitpl.com");
+        mailSender.setUsername("noreply@Jay.com");
         mailSender.setPassword("password");
          
         Properties javaMailProperties = new Properties();

@@ -1,5 +1,5 @@
 /**
- * @CopyRight DeckITPL
+ * @CopyRight Jay
  */
 package com.sysintelli.ims.controller;
 
@@ -25,7 +25,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 
 /**
  *
- * @author deck
+ * @author Jay
  */
 @RestController
 //@CrossOrigin(origins = {"http://localhost:4200", "http://202.65.142.18:80"})

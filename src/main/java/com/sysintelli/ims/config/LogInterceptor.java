@@ -1,5 +1,5 @@
 /**
- * @CopyRight DeckITPL
+ * @CopyRight Jay
  */
 package com.sysintelli.ims.config;
 
@@ -12,7 +12,7 @@ import org.springframework.web.servlet.HandlerInterceptor;
 import org.springframework.web.servlet.ModelAndView;
 
 /**
- * @author chandrakant
+ * @author Jay
  */
 @Component
 public class LogInterceptor implements HandlerInterceptor {

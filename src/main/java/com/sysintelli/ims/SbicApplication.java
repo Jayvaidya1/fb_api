@@ -1,5 +1,5 @@
 /**
- * @CopyRight DeckITPL
+ * @CopyRight Jay
  */
 package com.sysintelli.ims;
 
@@ -17,7 +17,7 @@ import org.springframework.session.web.http.HeaderHttpSessionStrategy;
 import org.springframework.session.web.http.HttpSessionStrategy;
 
 /**
- * @author chandrakant varasadia
+ * @author Jay
  */
 @SpringBootApplication
 @EnableTransactionManagement
